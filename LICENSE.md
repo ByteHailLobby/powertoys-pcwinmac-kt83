@@ -1,4 +1,4 @@
-# 
+# Avançado PowerToys extensões para Mac OS | Melhor PowerToys extensões para PC Windows. Com visualizacao de dados e remocao de arquivos temporarios — otimizado para máximo desempenho em cada plataforma.
 
 
 
